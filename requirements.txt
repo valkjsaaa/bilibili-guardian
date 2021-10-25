@@ -1,0 +1,7 @@
+pandas~=1.3.4
+numpy~=1.21.3
+chardet~=4.0.0
+requests~=2.25.1
+rsa~=4.7.2
+toml~=0.10.2
+git+https://github.com/valkjsaaa/bilibili_api.git@f448f0c7b4c4691932e2c61b1493b5a145c9bdf1
